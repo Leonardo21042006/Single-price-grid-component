@@ -3,7 +3,7 @@
 ![preview](./.github/preview.jpg)
 
 
-[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/Product-preview-card-component/)
+[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/Single-price-grid-component/)
 
 ## 🛠️ Tecnologias 
 
